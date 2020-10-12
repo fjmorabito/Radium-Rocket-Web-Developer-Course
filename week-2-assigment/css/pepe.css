@@ -1,0 +1,157 @@
+
+body {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 600px;
+}
+
+@font-face {
+    font-family: 'nyt-imperial';
+    src: url(fonts/imperial-normal-700.ttf);
+    font-style: normal;
+    font-weight: 500;
+}
+
+p {
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 15px;
+    margin-top: 0px;
+    font-family: 'nyt-imperial';
+    max-width: 600 px;
+    width: calc(100% - 40px);
+}
+
+.epigr {
+    color: #121212;
+    font-weight: 700;
+    line-height: 0.75rem;
+    font-size: 14px;
+    margin-bottom: 0;
+    font-family: helvetica,arial,sans-serif;
+    letter-spacing: 0.05em;
+}
+
+.caption {
+    color: #666;
+    line-height: 20px;
+    font-size: 15px;
+    font-family:'nyt-imperial',georgia,'times new roman',times,serif;
+    margin-right: 7px;
+}
+
+.caption-credit {
+    color: #888;
+    line-height: 12px;
+    font-size: 14px;
+    font-family:nyt-imperial,georgia,'times new roman',times,serif;
+    letter-spacing: 0.16px;
+}
+
+.sub-title {
+    font-size: 23px;
+    line-height: 30px;
+    font-family: 'times new roman',times,serif;
+    color: #333;
+    margin-bottom: 30px;
+}
+
+.title {
+    margin-bottom: 16px;
+    color: #121212;
+    font-family:times,serif;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 40px;
+    line-height: 48px;
+    width: 630px;
+}
+
+.link {
+    text-decoration: underline blue;
+    color:blue;
+}
+
+.link:hover {
+    text-decoration: none;
+}
+
+.link2 {
+    text-decoration:none;
+    margin-right: 10px;
+    display: inline;
+    font-weight: 500;
+    color: rgb(18, 18, 18);
+    font-family: georgia, "times new roman", times, serif;
+    width: 400px;
+}
+
+.link2:hover {
+    color: #333;
+}
+
+.link2date {
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-left: 5px;
+    display: inline-block;
+    columns: #989898;;
+    font-size: 12px;
+    line-height: 17px;
+    font-family:serif;
+    font-weight: 400;
+}
+
+.fig {
+    margin-left: 0px;
+    margin-top: 25px;
+}
+
+.figcap {
+    margin:0;
+    text-align: left;
+    display: block;
+}
+
+.author {
+    font-size: 14px;
+    line-height: 20px;
+    margin:0 0 15px 0;
+    font-family: nyt-franklin,helvetica,arial,sans-serif;
+    font-weight: 700;
+    color: #333;
+    letter-spacing: 0.02em;
+}
+
+.separator {
+    padding: 10px;
+}
+
+.endpage {
+    padding-top: 8px;
+    font-size: 15px;
+    line-height: 20px;
+    color:#333333;
+    font-family:sans-serif;
+    font-weight: 700;
+    border-top: 1px solid rgb(226, 226, 226);
+}
+
+.endpage-2 {
+    margin-top: 10px;
+    padding-top: 8px;
+    font-size: 15px;
+    line-height: 20px;
+    color:#333333;
+    font-family:sans-serif;
+    font-weight: 700;
+    border-top: 1px solid rgb(226, 226, 226);
+}
+
+.date {
+    font-size: 12px;
+    line-height: 1rem;
+    font-family:helvetica,arial,sans-serif;
+    font-weight: 500;
+    color: #333;
+}
