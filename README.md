@@ -1,6 +1,9 @@
-README.md
+Author: Federico Morabito
 
-author: Federico Morabito
+Week Assignment 1: code of a web page, copying the information of an article of a newspaper, while locating the semantics tags in a correct way.
 
-Here is the URL of the news that i tried to imitate using html code only:
-https://www.nytimes.com/2020/09/20/sports/golf/bryson-dechambeau-us-open.html
+Web Page of referrence: https://www.nytimes.com/2020/09/20/sports/golf/bryson-dechambeau-us-open.html
+
+Week Assignment 2: code of a web page, copying the information of an article of a newspaper, while adding styles with CSS. Adding of styles of "Weakly practice 1" with CSS.
+
+Web Page of referrence: https://www.nytimes.com/2020/09/20/sports/golf/us-open-ben-hogan.html
